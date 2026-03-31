@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Submitted by** | Priyanshu Dayal (0201AI221054) |
+| **Submitted by** | Anshika Gupta (0201AI221013) |
 | **Semester** | 8th Sem |
 | **Department** | Artificial Intelligence and Data Science |
 | **Submitted to** | Prof. Praveen Patel |
